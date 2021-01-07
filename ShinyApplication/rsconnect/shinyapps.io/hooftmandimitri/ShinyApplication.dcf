@@ -1,0 +1,12 @@
+name: ShinyApplication
+title: ShinyApplication
+username:
+account: hooftmandimitri
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3451597
+bundleId: 4069456
+url: https://hooftmandimitri.shinyapps.io/ShinyApplication/
+when: 1610046098.93906
+asMultiple: FALSE
+asStatic: FALSE
